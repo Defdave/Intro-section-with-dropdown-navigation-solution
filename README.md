@@ -4,16 +4,16 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ## Table of contents
 
-1. #overview
+ #overview
   - the-challenge
   - screenshot
   - links
-2. #my-process
+ #my-process
   - built-with
   - what-i-learned
   - continued-development
   - useful-resources
-3. #author
+ #author
 
 ## Overview
 Intro section with dropdown navigation solution 
