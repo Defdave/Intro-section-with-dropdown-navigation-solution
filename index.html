@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/fb2de446e5.js" crossorigin="anonymous"></script>
+    <title>snap</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1 id="logo"><a href="index.html"><img src="images/logo.svg" alt="" ></a></h1>
+            <div class="icon" id="opennav"><button>&#9776</button></div>
+            <nav class="navsbar navsbar-mobile">
+                <ul>
+                    <li class="icon" id="closenav"><button>&times;</button></li>
+                    <li class="drop" id="features">Features <span id="openfeatures" class="fa fa-chevron-up"></span><span id="closefeatures" class=" fa fa-chevron-down"></span>
+                        <ul class="dropdown-content" id="shiftleft">
+                            <li><a href=""><span class="fa fa-tasks" style="color:blue;"></span> Todo List</a></li>
+                            <li><a href=""><span class="fa fa-calendar" style="color: rgb(101, 216, 216);"></span> Calender</a> </li>
+                            <li><a href=""><span class="fa fa-bell" style="color: rgb(235, 235, 60);" ></span> Reminder</a> </li>
+                            <li><a href=""><span class="fa fa-clock" style="color:purple;" ></span> Planning</a> </li>
+                        </ul>
+                    </li>                                                
+                    <li class="drop" id="company">Company <span id="opencompany" class="fa fa-chevron-up"></span></span><span id="closecompany" class=" fa fa-chevron-down"></span>
+                        <ul class="dropdown-content">
+                            <li><a href="">History</a> </li>
+                            <li><a href="">Our Team</a> </li>
+                            <li><a href="">Blog</a> </li>
+                        </ul>
+                    </li>
+                    <li> <a href="#">Careers</a> </li>
+                    <li> <a href="#">About</a> </li>
+                </ul>
+                <ul id="access">
+                    <li> <a href="#">Login</a> </li>
+                    <li> <a href="#" id="register" >Register</a> </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section>
+        <div class="container">
+            <div id="hero-image"></div>
+            <div id="side-content">
+               <h1> <span> Make</span> remote work</h1>
+                <p>Get your team in sync, no matter your location. 
+                Streamline processes, create team rituals, and watch productivity soar.</p>
+                <button>Learn more</button>
+                <ul>
+                    <li><img src="images/client-databiz.svg" alt=""></li>
+                    <li><img src="images/client-audiophile.svg" alt=""></li>
+                    <li><img src="images/client-meet.svg" alt=""></li>
+                    <li><img src="images/client-maker.svg" alt=""></li>
+                </ul>
+            </div>
+            
+            
+        </div>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
