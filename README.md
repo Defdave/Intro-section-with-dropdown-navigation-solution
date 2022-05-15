@@ -8,11 +8,13 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
   - the-challenge
   - screenshot
   - links
+ 
  #my-process
   - built-with
   - what-i-learned
   - continued-development
   - useful-resources
+ 
  #author
 
 ## Overview
