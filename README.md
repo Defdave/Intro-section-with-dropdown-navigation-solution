@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](../screenshot/Intro-section-with-dropdown-navigation-screenshot.jpg)
+![](./Intro-section-with-dropdown-navigation-screenshot.jpg)
 
 ### Links
 
