@@ -127,7 +127,7 @@ header ul li:hover {
     padding: 8px 18px;
 }
 
-section .container{
+main .container{
     display: flex;
     justify-content: space-between;
     width: 80%;
@@ -189,7 +189,7 @@ section .container{
 }
 
 
-@media (max-width:670px) {
+@media screen and (max-width:670px) {
     body {
         width:100%;
     }
@@ -251,7 +251,7 @@ section .container{
         padding: 15px 70px;
     }
 
-    section .container {
+    main .container {
         flex-direction: column;
         justify-content: center;
         align-items: center;
